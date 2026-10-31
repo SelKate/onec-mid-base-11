@@ -169,6 +169,10 @@
     <mdObject>InformationRegister.НастройкиСинхронизацииФайлов</mdObject>
   </content>
   <content>
+    <mdObject>Catalog.ДЗ_КонтактныеЛица</mdObject>
+    <autoRecord>Allow</autoRecord>
+  </content>
+  <content>
     <mdObject>InformationRegister.ПрогрессОбновления</mdObject>
   </content>
   <content>
